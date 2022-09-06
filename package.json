@@ -1,0 +1,26 @@
+{
+  "name": "qr-codes",
+  "version": "1.0.0",
+  "description": "QR codes with Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai-dev-official/QR-Codes-with-Nodejs.git"
+  },
+  "keywords": [
+    "QrCodes",
+    "nodejs"
+  ],
+  "author": "Azubuike Ibe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ai-dev-official/QR-Codes-with-Nodejs/issues"
+  },
+  "homepage": "https://github.com/ai-dev-official/QR-Codes-with-Nodejs#readme",
+  "dependencies": {
+    "qrcode": "^1.5.1"
+  }
+}
